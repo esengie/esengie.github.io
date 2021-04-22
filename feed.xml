@@ -93,7 +93,7 @@
       <enclosure url="https://esengie.github.io/mp3s/16__Eumaeus.mp3" length="63762654" type="audio/mp3"/>
       <link>https://esengie.github.io/mp3s/16__Eumaeus.mp3</link>
       <guid isPermaLink="false">2bc43828315a2cd26f611854063a47956f450e57</guid>
-      <pubDate>Thu, 08 Apr 2021 01:32:16 +0100</pubDate>
+      <pubDate>Thu, 08 Apr 2021 01:32:17 +0100</pubDate>
       <itunes:duration>7968</itunes:duration>
     
     </item>
@@ -124,17 +124,30 @@
     
     </item>
   
-    <item>
-      <title>Circe</title>
+     <item>
+      <title>Circe pt.2</title>
       <itunes:author>Ulysses</itunes:author>
-    
+
       <itunes:image href=""/>
-      <enclosure url="https://esengie.github.io/mp3s/15__Circe.mp3" length="138673558" type="audio/mp3"/>
-      <link>https://esengie.github.io/mp3s/15__Circe.mp3</link>
-      <guid isPermaLink="false">62afe3622a3af2996c9c0ff86671b11ee1361d09</guid>
-      <pubDate>Thu, 08 Apr 2021 01:32:15 +0100</pubDate>
-      <itunes:duration>17331</itunes:duration>
-    
+      <enclosure url="https://esengie.github.io//mp3s/15_2__Circe.mp3" length="58015986" type="audio/mp3"/>
+      <link>https://esengie.github.io//mp3s/15_2__Circe.mp3</link>
+      <guid isPermaLink="false">f5abb71b245cf02ec87e8feedc96dd8e547f8c4c</guid>
+      <pubDate>Thu, 22 Apr 2021 01:32:16 +0100</pubDate>
+      <itunes:duration>7251</itunes:duration>
+
+    </item>
+
+    <item>
+      <title>Circe pt.1</title>
+      <itunes:author>Ulysses</itunes:author>
+
+      <itunes:image href=""/>
+      <enclosure url="https://esengie.github.io//mp3s/15_1__Circe.mp3" length="80640326" type="audio/mp3"/>
+      <link>https://esengie.github.io//mp3s/15_1__Circe.mp3</link>
+      <guid isPermaLink="false">a058f0ae41da8c6693fe681ed84b47c3de54f063</guid>
+      <pubDate>Thu, 22 Apr 2021 01:32:15 +0100</pubDate>
+      <itunes:duration>10080</itunes:duration>
+
     </item>
   
     <item>
@@ -171,7 +184,7 @@
       <enclosure url="https://esengie.github.io/mp3s/18__Penelope.mp3" length="64773518" type="audio/mp3"/>
       <link>https://esengie.github.io/mp3s/18__Penelope.mp3</link>
       <guid isPermaLink="false">ed8b9e958a68a2b42a46383de1a8aac241bb64fe</guid>
-      <pubDate>Thu, 08 Apr 2021 01:32:18 +0100</pubDate>
+      <pubDate>Thu, 08 Apr 2021 01:32:19 +0100</pubDate>
       <itunes:duration>8094</itunes:duration>
     
     </item>
@@ -184,7 +197,7 @@
       <enclosure url="https://esengie.github.io/mp3s/17__Ithaca.mp3" length="75116541" type="audio/mp3"/>
       <link>https://esengie.github.io/mp3s/17__Ithaca.mp3</link>
       <guid isPermaLink="false">d1a106ad78c23af0a0b4ab2dd58eaf43df0d16b4</guid>
-      <pubDate>Thu, 08 Apr 2021 01:32:17 +0100</pubDate>
+      <pubDate>Thu, 08 Apr 2021 01:32:18 +0100</pubDate>
       <itunes:duration>9387</itunes:duration>
     
     </item>
